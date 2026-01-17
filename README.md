@@ -1,6 +1,4 @@
-<h2 dir="rtl" align="center">
-بسم الله الرحمن الرحيم
-</h2>
+<h2 dir="rtl" align="center"> بسم الله الرحمن الرحيم </h2>
 
 # Docker Revision
 This revision is designed to provide a concise overview of Docker, including basic and some advanced concepts. It is intended for developers, software engineers, and anyone interested in using Docker.
