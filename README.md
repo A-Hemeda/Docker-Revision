@@ -3,7 +3,6 @@
 # Docker Revision
 This revision is designed to provide a concise overview of Docker, including basic and some advanced concepts. It is intended for developers, software engineers, and anyone interested in using Docker.
 
-
 **Revision Content**  
 
 1. [Introduction](#introduction)
