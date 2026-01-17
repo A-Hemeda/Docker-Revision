@@ -60,14 +60,12 @@ is the primary way that many Docker users interact with Docker. When you use com
 #### Examples
 - Docker CLI
 
-
 ### 2. Docker Host
  is a physical or virtual machine on which the Docker platform is installed and where Docker containers are created, managed, and run. It's the environment where Docker engine, the core component of Docker, operates. A Docker host can run multiple Docker containers concurrently, each isolated from the others
 
 #### Examples
 - Linux
 - Windows
-
 
 ### 3. Docker Registry
 Docker Registry manages and stores the Docker images.
