@@ -25,7 +25,6 @@ Docker uses containerization technology to encapsulate applications and their de
 
 The core component of Docker is the Docker Engine. It acts as a client-server application that runs on the host machine and manages containers. The Docker Engine includes a server (daemon) responsible for building, running, and managing containers, along with a command-line interface (CLI) that allows users to interact with the Docker Engine.
 
-
 ### Some Generic docker commands
 | Command | Description |
 | - | - |
