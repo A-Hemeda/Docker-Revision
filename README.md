@@ -636,7 +636,6 @@ Here's a basic structure:
 
 ### Some docker-compose commands
 
-
 | Command                                       | Description                                                  |
 |-----------------------------------------------|--------------------------------------------------------------|
 | `docker-compose up`                           | Create and start containers.                                 |
