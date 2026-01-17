@@ -96,9 +96,7 @@ the host OS kernel, allowing for efficient resource utilization and rapid deploy
 - **Ecosystem and Tooling:**  A Containers have a rich ecosystem with a wide array of supporting tools and platforms, such as Docker and Kubernetes. This ecosystem makes it easier for developers and operations teams to manage, orchestrate, and monitor containerized applications effectively.
 - **Microservices Architecture:**  Containers are well-suited for implementing microservices architecture, where applications are broken down into smaller, loosely coupled services. This enables better agility, scalability, and maintainability in complex systems.
 
-
 ### Container vs Virtual Machine
-
 
 <div align="center">
 
