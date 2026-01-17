@@ -16,7 +16,6 @@ This revision is designed to provide a concise overview of Docker, including bas
 9. [References](#references)
 
 
-
 ## Introduction
 Docker is an open-source platform that enables developers to automate the deployment, scaling, 
 and management of applications inside lightweight, portable, and self-sufficient containers. 
